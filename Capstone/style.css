@@ -1,0 +1,148 @@
+.top-container{
+    padding-top: 100px;
+    position: relative;
+    background-color: #222831;
+}
+div{
+    display: block;
+}
+.top-cloud{
+    position: absolute;
+    right: 5px;
+    top: 40px;
+    left: 874px;
+}
+.top{
+    height: 75px;
+    width: 150px;
+}
+.bottom{
+    height: 75px;
+    width: 150px;
+    position: absolute;
+    top: 300px;
+    right: 874px;
+    bottom: 300px;
+    left: 300px;
+    
+}
+.mountain{
+    width: fit-content;
+    height: fit-content;
+}
+body{
+    text-align: center;
+    margin: 0%;
+}
+h1{
+    color: #00ADB5;
+    font-size: 100px;
+    margin: 50px auto 0 auto;
+    display: block;
+}
+h2{
+    color: #00ADB5;
+    font-size: 40px;
+    margin: 50px auto 0 auto;
+    display: block;
+}
+p{
+    display: block;
+    color: #EEEEEE;
+    
+}
+.web{
+    text-decoration: underline;
+}
+img{
+    overflow: clip;
+}
+.middle-container{
+    margin: 100px;
+    background-color: #393E46;
+    margin: 0%;
+}
+.iahn{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+hr {
+    border: dotted #393E46 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 80px auto;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.typing{
+    height: 200px;
+    width: 300px;
+    padding-top: 25px;
+}
+.learning{
+    height: 200px;
+    width: 300px;
+    padding-top: 25px;
+    margin-right: 50px;
+}
+.skills{
+    color: #00ADB5;
+    font-size: 50px;
+    margin: 50px auto 0 auto;
+    display: block;
+}
+H2{
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #11cdd4;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.bottom-container {
+    background-color: #222831;
+    padding: 50px 0 20px;
+}
+a {
+    color: #00ADB5;
+    font-family: "Montserrat", sans-serif;
+    margin: 50px 20px;
+    text-decoration: none;
+}
+h3{
+    color: #EEEEEE;
+}
+.text{
+    padding: 10px 20px 10px 20px;
+    background: #222831;
+    border-radius: 25px;
+}
+.hello{
+    color: #00ADB5;
+}
+.design{
+    color:#00ADB5;
+}
+.get{
+    margin-bottom: 25px;
+}
+.message{
+    margin-bottom: 45px;
+}
